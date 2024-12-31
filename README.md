@@ -40,8 +40,8 @@ We employ two well-known MST algorithms to solve this problem:
 ---
 
 <p align="center">
-  <img src="Project/Images/problem.png" alt="Image 1 Description" height="300px "width="320px" style="margin-right: 25px;" />
-  <img src="Project/Images/solution.png" alt="Image 2 Description" height="300px' width="320px" />
+  <img src="Project/Images/problem.png" alt="Image 1 Description" height="300pxstyle="margin-right: 25px;" />
+  <img src="Project/Images/solution.png" alt="Image 2 Description" height="300px' />
 </p>
 
 
