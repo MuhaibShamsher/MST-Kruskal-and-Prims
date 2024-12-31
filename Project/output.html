@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Emscripten-Generated Code</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <header>
+    <h1 class="title">Design and Analysis of Algorithms</h1>
+    <h2 class="subtitle">AquaConnect: Efficient Water Distribution with MST Algorithm</h2>
+  </header>
+
+  <div class="spinner" id='spinner'></div>
+  <div class="emscripten" id="status">Downloading...</div>
+
+  <div class="emscripten">
+    <progress value="0" max="100" id="progress" hidden=1></progress>
+  </div>
+
+  <div class="emscripten_border">
+    <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
+  </div>
+
+  <textarea id="output" rows="8"></textarea>
+
+  <div class="graphs">
+    <div class="graph">
+      <h4>Graph Before Algorithm</h4>
+      <img src="./Images/problem.png" alt="Graph Before Prim's and Kruskal's Algorithm">
+    </div>
+    <div class="graph">
+      <h4>Graph After Algorithm</h4>
+      <img src="./Images/solution.png" alt="Graph After Prim's and Kruskal's Algorithm">
+    </div>
+  </div>
+
+  <script type='text/javascript' src="./script.js"></script>
+  <script async type="text/javascript" src="output.js"></script>
+</body>
+
+</html>
