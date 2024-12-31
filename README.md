@@ -39,4 +39,11 @@ We employ two well-known MST algorithms to solve this problem:
 
 ---
 
+<p align="center">
+  <img src="Project/Images/problem" alt="Image 1 Description" width="45%" style="margin-right: 10px;" />
+  <img src="Project/Images/solution" alt="Image 2 Description" width="45%" />
+</p>
+
+
+
 This project provides a practical solution for optimizing infrastructure design using graph theory and algorithmic efficiency.
