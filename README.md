@@ -1,5 +1,5 @@
-<h1>Project Title</h1>h1>
-<h3></h3>Optimal Water Pipeline Network Design for a Residential Society Using Minimum Spanning Tree Algorithms</h3>
+<h1>Project Title</h1>
+<h3>Optimal Water Pipeline Network Design for a Residential Society Using Minimum Spanning Tree Algorithms</h3>
 </b>
 Project Description:
 In this project, we aim to design a water pipeline network for a residential society, represented as a collection of houses on a 2D plane. Each house is a unique point on this plane, defined by its coordinates. The goal is to construct a water pipeline system that connects all the houses with the minimum possible cost. The cost to lay a pipeline between two houses is based on the Manhattan distance between them, calculated as:
